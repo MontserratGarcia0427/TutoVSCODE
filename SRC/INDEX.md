@@ -7,4 +7,4 @@ No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno 
 Fue popularizado en los 60s con la creación de las hojas "Letraset", 
 las cuales contenian pasajes de LOREM Ipsum, y más recientemente con software de autoedición, 
 como por ejemplo Aldus PageMaker, 
-el cual incluye versiones de LOREM Ipsum.
+el cual incluye versiones de LOREM Ipsum
